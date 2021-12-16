@@ -7,6 +7,7 @@ void showArray(int array[], int number) {
         }
         cout << endl;
     }
+    
 int main () {
     //Thuat toan doi cho truc tiep
     // input: 4
