@@ -1,4 +1,5 @@
 #include <iostream>
+#include "timkiem.h"
 using namespace std;
 #define MAX_N 100
 void showArray(int array[], int number) {
@@ -37,6 +38,7 @@ int main () {
         }
         
     }
+    search_element(array, number, 5);
 
     return 0;
 }
